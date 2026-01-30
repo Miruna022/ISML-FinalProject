@@ -17,7 +17,7 @@ A JADE-based multi agent system that simulates a decentralized smart energy grid
 
 
 ## Usage Instructions
-1.  Navigate to `src/org/example/Main.java`.
+1.  Navigate to `Main.java`.
 2.  Run the `Main` class.
     * This will automatically launch the JADE Container and start the GUI.
     * It initializes 1 Manager, 5 Producers, and 3 Consumers.
